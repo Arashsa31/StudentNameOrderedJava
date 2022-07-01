@@ -1,5 +1,3 @@
-package Question7;
-
 import java.util.Arrays;
 
 /**
